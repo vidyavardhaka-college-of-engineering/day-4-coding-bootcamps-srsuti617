@@ -21,3 +21,4 @@ int main()
    //Print the both array elements in using printf statement in the above specified format
    return 0; 
 }
+00

@@ -11,14 +11,14 @@
 
 int main()
 {
-int arr[5],N,i;
+int a[5],N,i;
 
 printf("Enter 5 integers");
 for(i=0;i<5;i++)
-scanf("%d",&arr[i]);
+scanf("%d",&a[i]);
 printf("output\n");
 for (i=0;i<5;i++)
-printf("%d\n",arr[i]);
+printf("%d\n",a[i]);
 
 
    //Read the Value of N using scanf statement
